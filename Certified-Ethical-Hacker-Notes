@@ -1,0 +1,88 @@
+# CEH Exam Preparation Notes
+
+This file compiles key resources and notes to help prepare for the Certified Ethical Hacker (CEH) v13 exams, including both the theory (312-50) and practical versions. These resources are designed for learners, cybersecurity enthusiasts, and professionals aiming to master ethical hacking concepts, including the new AI-enhanced topics introduced in CEH v13, and succeed in the CEH certification.
+
+---
+
+## 🧠 About the CEH v13 Exams
+
+The **Certified Ethical Hacker (CEH) v13** certification by EC-Council is a globally recognized credential that validates skills in ethical hacking techniques, now enhanced with AI-driven methodologies. It covers domains like reconnaissance, scanning, enumeration, system hacking, web application testing, and AI-based attack and defense strategies.
+
+- **CEH Theory Exam (312-50)**: A 4-hour, 125-question multiple-choice exam covering 20 modules, including footprinting, network scanning, malware threats, cryptography, and AI-driven cyberattacks. It tests theoretical knowledge of ethical hacking methodologies.
+- **CEH Practical Exam**: A 6-hour, hands-on exam with 20 real-world challenges in a lab environment. Candidates must demonstrate practical skills using tools like Nmap, Metasploit, Burp Suite, and AI-based tools to identify and exploit vulnerabilities.
+
+### CEH v13 AI-Enhanced Topics
+CEH v13 introduces AI-driven techniques, reflecting their growing role in cyberattacks and defenses. Key AI-related topics include:
+- **AI in Attack Automation**: How attackers use AI for reconnaissance, social engineering, malware generation, and vulnerability exploitation.
+- **AI in Defense**: Leveraging AI for threat detection, anomaly analysis, and automated incident response.
+- **AI-Powered Tools**: Familiarity with tools like TensorFlow, PyTorch, or custom scripts for AI-driven security tasks.
+- **Ethical Considerations**: Understanding the ethical implications of AI in cybersecurity, including bias in AI models and responsible use.
+
+---
+
+## 📑 Exam Resources
+
+Below is a curated list of GitHub repositories and other resources to support preparation for the CEH v13 theory and practical exams. These include study notes, practice questions, commands, tools, labs, and AI-specific resources aligned with the CEH v13 curriculum.
+
+### CEH Theory Exam Resources
+These repositories provide study notes, summaries, and practice questions for the CEH (312-50) theory exam. Note that some resources are for v11/v12 but can be adapted for v13 with supplementation for AI topics.
+
+- **[ryh04x/CEH-Topics](https://github.com/ryh04x/CEH-Topics)**  
+  Comprehensive study materials for CEH v11, covering all exam blueprint topics (e.g., reconnaissance, scanning, enumeration). Supplement with AI-related resources for v13, such as notes on AI-driven reconnaissance.[](https://github.com/ryh04x/CEH-Topics)
+- **[undergroundwires/CEH-in-bullet-points](https://github.com/undergroundwires/CEH-in-bullet-points)**  
+  Concise bullet-point summaries of CEH exam topics with real-life tips. The author claims a 119/125 score. Add AI-related notes (e.g., AI in social engineering) for v13 relevance.[](https://github.com/undergroundwires/CEH-in-bullet-points)
+- **[imrk51/CEH-v11-Study-Guide](https://github.com/imrk51/CEH-v11-Study-Guide)**  
+  An unofficial study guide for CEH v11, clarifying all exam topics. Adapt for v13 by including AI-driven attack vectors and defenses.[](https://github.com/imrk51/CEH-v11-Study-Guide)
+- **[Aftab700/CEH_Notes](https://github.com/Aftab700/CEH_Notes)**  
+  Tailored notes for CEH v12, focusing on key concepts. Update with AI topics like automated vulnerability analysis for v13.
+
+### CEH Practical Exam Resources
+These repositories offer practical labs, tools, commands, and guides for the CEH Practical exam’s 20 hands-on challenges, including some applicable to AI-driven scenarios.
+
+- **[DarkLycn1976/CEH-Practical-Notes-and-Tools](https://github.com/DarkLycn1976/CEH-Practical-Notes-and-Tools)**  
+  Notes and tools for the CEH Practical exam, covering network scanning, system hacking, and web application testing. Includes commands for tools like Wireshark and Sqlmap, useful for v13 practical tasks.[](https://github.com/DarkLycn1976/CEH-Practical-Notes-and-Tools)
+- **[infovault-Ytube/CEH-Practical-Notes](https://github.com/infovault-Ytube/CEH-Practical-Notes)**  
+  Practical notes tailored for the CEH Practical exam, focusing on real-world scenarios and tool usage (e.g., Nmap, Metasploit).
+- **[dhabaleshwar/CEHPractical](https://github.com/dhabaleshwar/CEHPractical/blob/main/Everything%20You%20Need.md)**  
+  Important notes and commands for the CEH Practical exam, with guidance on tools like Nmap, Sqlmap, and Hashcat, applicable to v13 challenges.
+- **[CyberSecurityUP/Guide-CEH-Practical-Master](https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master)**  
+  Labs and resources for CEH Practical preparation, including TryHackMe rooms and tools like Metasploit and Hydra. Adapt for v13 by practicing AI-driven attack scenarios.[](https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master)
+- **[Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)**  
+  Practical ethical hacking labs covering CEH content, with tutorials on Nmap, Burp Suite, and Metasploit. Suitable for v13 practical prep.[](https://github.com/Samsar4/CEH-v10-Study-Guide)
+- **[sampritdas8/Ec-Council-CEH-Practical--Guide-For-Exam](https://github.com/sampritdas8/Ec-Council-CEH-Practical--Guide-For-Exam)**  
+  A guide with notes and strategies for solving CEH Practical exam challenges, focusing on practical methodologies.
+- **[Indrajith-S/CEH-Lab-Notes](https://github.com/Indrajith-S/CEH-Lab-Notes)**  
+  Comprehensive notes from CEH lab exercises, covering reconnaissance, scanning, system hacking, and more. Useful for v13 practical prep with supplementation for AI topics.[](https://github.com/Indrajith-S/CEH-Lab-Notes)
+
+### CEH v13 AI-Specific Resources
+CEH v13 includes AI-driven topics not fully covered in older CEH repositories. Below are resources and platforms to address these:
+
+- **[OWASP/AI-Security](https://github.com/OWASP/AI-Security)**  
+  A repository by OWASP focusing on AI security, including AI-driven attack vectors and defenses. Covers topics like AI-based reconnaissance, automated vulnerability scanning, and ethical considerations, aligning with CEH v13 AI modules.
+- **[trustedsec/ai-security-testing](https://github.com/trustedsec/ai-security-testing)**  
+  A collection of tools and scripts for testing AI-driven security systems, including Python-based AI scripts for attack automation. Useful for practicing AI-related practical challenges in CEH v13.
+- **EC-Council CEH v13 Syllabus PDF**: Download the official CEH v13 syllabus for a detailed breakdown of AI topics, including AI in attack automation and defense. Available at [EC-Council](https://www.eccouncil.org).[](https://www.eccouncil.org/cehv13-brochure/)
+- **TryHackMe AI Security Rooms**: TryHackMe offers rooms like “AI Security Fundamentals” and “Machine Learning in Cybersecurity” that cover AI-driven attacks (e.g., AI-generated phishing) and defenses. [TryHackMe](https://tryhackme.com).[](https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master)
+
+---
+
+## 💡 Preparation Tips
+- **Theory Exam**: Practice with CEH v13 practice exams from sources like DumpsBase (572 questions).[](https://www.dumpsbase.com/freedumps/new-ec-council-ceh-312-50v13-dumps-v8-02-prepare-for-the-certified-ethical-hacker-ceh-v13-exam-with-the-latest-and-updated-312-50v13-exam-questions.html)
+- **AI-Specific Prep**:
+  - **Understand AI Concepts**: Learn how AI automates attacks (e.g., AI-driven social engineering, malware generation) and defenses (e.g., anomaly detection). Study the “why” behind AI techniques, not just the “how.”[](https://www.craw.in/study-guide-for-the-ceh-v13-ai-certification-exam/)
+  - **Practice AI Tools**: Use Python with libraries like TensorFlow or PyTorch to simulate AI-driven attacks in a virtual lab (e.g., Kali Linux, Metasploitable).[](https://www.craw.in/study-guide-for-the-ceh-v13-ai-certification-exam/)
+  - **Ethical Considerations**: Review ethical implications of AI in cybersecurity, such as bias in AI models, using OWASP’s AI Security resources.
+- **Supplementary Platforms**:
+  - [TryHackMe](https://tryhackme.com): Guided labs for CEH and AI security skills.[](https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master)
+  - [Hack The Box](https://www.hackthebox.com): Advanced challenges for practical exam prep.
+- **Time Management**: For the practical exam, practice completing tasks within time constraints to simulate the 6-hour exam environment. For the theory exam, allocate ~60 seconds per question.[](https://hackzone.in/blog/ceh-v13-certification-guide-free-resources-2025/)
+- **Stay Updated**: Use CEH v13 resources to ensure coverage of AI topics. Older v11/v12 resources may need supplementation with AI-focused materials.
+
+---
+
+## ⚠️ Responsible Usage Notice
+These resources are intended for use **only in authorized, legal, and controlled environments**, such as personal labs, TryHackMe, Hack The Box, or explicitly permitted test systems. Unauthorized use of hacking tools or techniques can have serious legal and ethical consequences. Always obtain proper authorization before testing.
+
+---
+
+*Last updated: May 2025*
